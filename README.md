@@ -2,6 +2,16 @@
 
 [社群網路爬蟲工作坊 講義資料](https://drive.google.com/drive/folders/1Rpre8mqEX55tO6mSovindJQ3_l9pmzz4?usp=sharing)
 
+### 安裝 Python
+- [Python 3.14.4 下載](https://www.python.org/downloads/)
+
+### 安裝 VSCode
+- [下載 Visual Studio Code](https://vscode.com.tw/download)
+### VSCode 套件列表
+- Python
+- Codex
+- Live Server
+
 ---
 補充資源
 - [Trafilatura: Discover and Extract Text Data on the Web](https://github.com/adbar/trafilatura?tab=readme-ov-file)
