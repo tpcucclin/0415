@@ -12,3 +12,12 @@ https://www.twse.com.tw/zh/trading/historical/stock-day.html
 3. 繪製K線圖
 4. 產出一頁式網頁, 輸出至 report2330.html
 ```
+
+K 線圖
+
+設計 K 線圖, 用原生 HTML5 Canvas 加上 JavaScript 自行繪製的，包含： 
+- K 棒本體
+- 成交量柱
+- MA5、MA20
+- 滑鼠 tooltip
+- 3M / 6M / 1Y / ALL 切換
